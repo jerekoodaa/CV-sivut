@@ -20,6 +20,8 @@ body {
     overflow: hidden;
     margin-left: -10px;
     margin-right: -10px;
+    margin-top: auto;
+    margin-bottom: auto;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -96,6 +98,10 @@ align-items: stretch;
   .content {
     flex-direction: column;
   }
+.footer-p {
+    flex-direction: column;
+  }
+
 }
 
 
