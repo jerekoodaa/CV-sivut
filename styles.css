@@ -98,11 +98,9 @@ align-items: stretch;
     flex-direction: column;
   }
 .footer-div {
-    flex-direction: column;
+    flex-wrap: wrap;
   }
 
-.skills {
-   margin-bottom: 300px;
 }
 
 
