@@ -98,7 +98,7 @@ align-items: stretch;
   .content {
     flex-direction: column;
   }
-.footer-p {
+.footer-div {
     flex-direction: column;
   }
 
